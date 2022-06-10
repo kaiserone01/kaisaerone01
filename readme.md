@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaiserone01&label=Profile%20views&color=0e75b6&style=flat" alt="kaiserone01" /> </p>
 
-- 🔭 Actualmente trabajando en gruposife [Pagina web](https://www.gruposife.net/)
+ <p align="center">🔭 Actualmente trabajando en gruposife [Pagina web](https://www.gruposife.net/)</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
