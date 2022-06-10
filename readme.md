@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Luis Porteles</h1>
 <h3 align="center">Full stack developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiserone01&label=Profile%20views&color=0e75b6&style=flat" alt="kaiserone01" /> </p>
+
 - 🔭 Actualmente trabajando en gruposife [Pagina web](https://www.gruposife.net/)
 
 <h3 align="left">Connect with me:</h3>
